@@ -1,0 +1,43 @@
+{
+  "_args": [
+    [
+      "git+https://ssp_private:5de02f3a5e92326fad20cec8d5645361@server5.imorum.com:8443/r/cl/ff-rn-azure-notifhub.git",
+      "/Users/admin/Desktop/firefly-unified-messenger/client"
+    ]
+  ],
+  "_from": "git+https://ssp_private:5de02f3a5e92326fad20cec8d5645361@server5.imorum.com:8443/r/cl/ff-rn-azure-notifhub.git",
+  "_id": "ff-rn-azure-notifhub@git+https://ssp_private:5de02f3a5e92326fad20cec8d5645361@server5.imorum.com:8443/r/cl/ff-rn-azure-notifhub.git#07d764ec4702d6ec61f2ebf65f305d9ba5789526",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/ff-rn-azure-notifhub",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://ssp_private:5de02f3a5e92326fad20cec8d5645361@server5.imorum.com:8443/r/cl/ff-rn-azure-notifhub.git",
+    "rawSpec": "git+https://ssp_private:5de02f3a5e92326fad20cec8d5645361@server5.imorum.com:8443/r/cl/ff-rn-azure-notifhub.git",
+    "saveSpec": "git+https://ssp_private:5de02f3a5e92326fad20cec8d5645361@server5.imorum.com:8443/r/cl/ff-rn-azure-notifhub.git",
+    "fetchSpec": "https://ssp_private:5de02f3a5e92326fad20cec8d5645361@server5.imorum.com:8443/r/cl/ff-rn-azure-notifhub.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://ssp_private:5de02f3a5e92326fad20cec8d5645361@server5.imorum.com:8443/r/cl/ff-rn-azure-notifhub.git#07d764ec4702d6ec61f2ebf65f305d9ba5789526",
+  "_spec": "git+https://ssp_private:5de02f3a5e92326fad20cec8d5645361@server5.imorum.com:8443/r/cl/ff-rn-azure-notifhub.git",
+  "_where": "/Users/admin/Desktop/firefly-unified-messenger/client",
+  "author": "",
+  "description": "## Getting started",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "",
+  "main": "index.js",
+  "name": "ff-rn-azure-notifhub",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
